@@ -1,7 +1,11 @@
 ## Welcome To The NSQIP Data Analysis Organization
-- Here we are doing some fancy R stuff for a class project
 
-You're a real one for reading this. Enjoy.
+This project is the home for various analyses of the NSQIP dataset to inform perioperative care. There is a repo for some preliminary, unrelated work to our planned papers/abstracts for our MSDS DS6021 class. The planned projects will be listed below as we work on them, and each will have its own repo with relevant EDA, visualizations, statistical analyses, and linear models (if applicable).
+
+Projects:
+- Class project looking at the length of stay and SSI/pneumonia based on limited predictors. Attempted to create linear models to predict this data.
+- Assessing readmission rates after lymphatic melanoma surgeries based on administering immune checkpoint inhibitors. Based on this [paper](https://journals.lww.com/annalsplasticsurgery/abstract/2017/11000/identification_of_risk_factors_in_lymphatic.22.aspx).
+
 <!--
 
 **Here are some ideas to get you started:**
